@@ -369,11 +369,6 @@ main{
   }
 /* media quires */
 @media (max-width: 999px) {
-    html{
-        transform: rotate(-90deg);
-        height: auto;
-        min-width: 999px;
-    }
     main{
         margin: 40px 10px;
     }
