@@ -369,9 +369,6 @@ main{
   }
 /* media quires */
 @media (max-width: 999px) {
-    main{
-        margin: 40px 10px;
-    }
     .sidebar-content-header {
         padding: 10px 10px;
         margin: 10px 0 0 10px;
